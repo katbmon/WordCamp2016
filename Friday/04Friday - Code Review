@@ -1,0 +1,48 @@
+Code Review: Keeping Things Secure, Clean, and Performant by Ryan Markel
+(3.0)
+
+- vip.wordpress.com principles / What to look for
+	- Safe Code
+	- Scalable Code
+	- Readable Code
+	- Learning
+	- Validation, Sanitizing, escaping
+	- XSS in Js
+	- Uncached WP Functions
+	- Smart Fetching
+	- Typos / Troubling PHP Calls
+
+- Auto Code Review / Quarterly 
+- PHP Codesniffer
+- VIP Quickstart
+- Continuous Integration Tracking
+
+- Process
+	- Client Commits
+	- Changeset Marked
+	- Reviewer
+	- Ticket (if needed)
+
+- Use Github
+	- Code Review to merge (no one can merge their own branch)
+	- Humble Pull Requests (Calypso built this way)
+
+- MOST IMPORTANT
+	- When code reviewing, only POSITIVE comments
+	- The code review should be an open conversation, not a this is correct and that wrong
+	- Everyone is on the same playing field when reviewing
+	- This is a learning oppurtunity for everyone
+	- have a list of common things to look for
+
+- Need Changes and Review Documented
+- Make it part of Tema Culture
+- If doing it Solo
+	- Sleep on Code
+	- Dont Merge same day
+	- Mental Mindset from day to day changes
+
+- "Reviewed Code is Better Code"
+- https://ryanmarkel.com/10432/wordcamp-us-presentation-code-review/
+
+- Idea for School - Make this a Project, Code review each others work
+
