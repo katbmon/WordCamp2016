@@ -1,0 +1,15 @@
+Let’s Encrypt! Wait. Why? How? by Nancy Thanki
+(1.0)
+
+- Move my sites to https? 
+- Teach in intro class!
+	- "http + security"
+
+Steps
+1. Download Let's Encrypt
+	- sudo apt-get install lets-encrypt
+2. Run it as sudo telling cert for domain
+	- let-encrypt domain.com
+
+- renewal every 90 days
+- change settings https & plugins in Wordpress
